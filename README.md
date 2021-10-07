@@ -4,9 +4,6 @@ Thyroid disease a very common problem in India, more than one crore people are s
 
 The main objective of this project is to predict if a person is having compensated hypothyroid, primary hypothyroid, secondary hypothyroid or negative (no thyroid) with the help of Machine Learning. Classification algorithms such as Logistic regression, Random Forest, Decision Tree, Naïve Bayes, Support Vector Machine have been trained on the thyroid dataset, UCI Machine Learning repository. Random Forest performed well with better accuracy (98%), precision and recall. After hyper parameter tuning, application has deployed on Heroku with the help of flask.
 
-## Website link
-https://thyroid-disease-detection132.herokuapp.com/
-
 ## Demo
 https://youtu.be/Vkn9Hi-M3r0
 
@@ -51,14 +48,3 @@ MongoDB Atlas database used for this project
 
 ### Model Deployment
 The final model is deployed on Heroku using Flask framework
-
-## Authors
-**Kalpana Gaunolla** - https://www.linkedin.com/in/kalpana-gaunolla/
-
-**Ojjaswi Nirmal**  -  https://www.linkedin.com/in/ojjaswi-nirmal-27b8961a3/
-
-
-### If you like this project, please do give the star. If you have any suggestions or issues, please drop us a message. 
-
-
-
